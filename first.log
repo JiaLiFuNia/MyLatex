@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.3.9)  9 MAR 2024 23:44
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.3.9)  9 MAR 2024 23:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -349,19 +349,23 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout3 = `first.toc'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.53937> on input line 18.
+(Font)              <10.53937> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 18.
+(Font)              <7> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 18.
+(Font)              <5> on input line 20.
  [1
 
-] (./first.aux) ) 
+] (./first.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 7216 strings out of 476683
- 210546 string characters out of 5799638
+ 7218 strings out of 476683
+ 210580 string characters out of 5799638
  1850012 words of memory out of 5000000
- 27385 multiletter control sequences out of 15000+600000
+ 27387 multiletter control sequences out of 15000+600000
  517797 words of font info for 73 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,9n,97p,359b,275s stack positions out of 10000i,1000n,20000p,200000b,200000s
