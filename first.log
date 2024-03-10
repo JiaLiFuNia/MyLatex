@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.3.9)  10 MAR 2024 12:23
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.3.9)  10 MAR 2024 12:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -344,26 +344,31 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 11.
-(./first.toc)
+(./first.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.53937> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 5.
+)
 \tf@toc=\write3
 \openout3 = `first.toc'.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.53937> on input line 25.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 25.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 25.
  [1
 
-] (./first.aux) ) 
+] [2] (./first.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 7220 strings out of 476683
- 210642 string characters out of 5799638
- 1850012 words of memory out of 5000000
- 27388 multiletter control sequences out of 15000+600000
- 517805 words of font info for 74 fonts, out of 8000000 for 9000
+ 7230 strings out of 476683
+ 210919 string characters out of 5799638
+ 1849012 words of memory out of 5000000
+ 27396 multiletter control sequences out of 15000+600000
+ 517821 words of font info for 76 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,8n,97p,359b,275s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on first.pdf (1 page).
+Output written on first.pdf (2 pages).

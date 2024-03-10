@@ -8,40 +8,52 @@
 \date{\today}
 
 \begin{document}
-\maketitle
+    \maketitle
 
-\begin{abstract}
-    This is the article's abstract
-\end{abstract}
+    \begin{abstract}
+        This is the article's abstract
+    \end{abstract}
 
-\tableofcontents
+    \tableofcontents
+    \newpage
 
-\section{big title}
 
-\section{This is a section}
-How are you?
-I'm fine thanks.
+    \section{big title}\label{sec:big-title}
 
-$x^2+y^2 = (x+y)^2$
+    \paragraph{this is a paragraph}
 
-$\sqrt[5](x)*(x*y)$
-\section{This is the second section}
-\begin{table}[htbp]
-    \centering
-    \caption{时}
-    \begin{tabular}{ccc}
-        1 & 2 & 3 \\
-        4 & 5 & 6 \\
-        7 & 8 & 9
-    \end{tabular}\label{tab:table}
-\end{table}
+    \subparagraph{this is a subparagraph 至于为什么学习latex}
 
-\begin{enumerate}
-    \item[(1)] 这是第点;
-    \item[(2)] 这是第点;
-    \item[(3)] 这是第三点.
-\end{enumerate}
 
-Hello world!
-你好，世界 ！
+    \section{This is a section}\label{sec:this-is-a-section}
+
+    \subsection{This is a second section}\label{subsec:this-is-a-second-section}
+    \subsection[short]{This is a third section}\label{subsec:this-is-a-third-section}
+    How are you?
+    I'm fine thanks.
+
+    $x^2+y^2 = (x+y)^2$
+
+    $\sqrt[5](x)*(x*y)$
+
+
+    \section{This is the second section}\label{sec:this-is-the-second-section}
+    \begin{table}[htbp]
+        \centering
+        \caption{时}
+        \begin{tabular}{ccc}
+            1 & 2 & 3 \\
+            4 & 5 & 6 \\
+            7 & 8 & 9
+        \end{tabular}\label{tab:table}
+    \end{table}
+
+    \begin{enumerate}
+        \item[(1)] 这是第点;
+        \item[(2)] 这是第点;
+        \item[(3)] 这是第三点.
+    \end{enumerate}
+
+    Hello world!
+    你好，世界 ！
 \end{document}

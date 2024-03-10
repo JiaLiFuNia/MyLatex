@@ -1,3 +1,7 @@
-\contentsline {section}{\numberline {1}big title}{1}{}%
-\contentsline {section}{\numberline {2}This is a section}{1}{}%
-\contentsline {section}{\numberline {3}This is the second section}{1}{}%
+\contentsline {section}{\numberline {1}big title}{2}{}%
+\contentsline {paragraph}{this is a paragraph}{2}{}%
+\contentsline {subparagraph}{this is a subparagraph 至于为什么学习latex}{2}{}%
+\contentsline {section}{\numberline {2}This is a section}{2}{}%
+\contentsline {subsection}{\numberline {2.1}This is a second section}{2}{}%
+\contentsline {subsection}{\numberline {2.2}short}{2}{}%
+\contentsline {section}{\numberline {3}This is the second section}{2}{}%
