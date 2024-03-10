@@ -1,0 +1,1774 @@
+<Pages>
+<Page pageNum="1" OriWidth="595.280" OriHeight="841.890">
+<text id="0" count="6" text="This is a test for vscode">
+<rect xMin="211.410" yMin="116.550" xMax="383.850" yMax="134.550"/>
+<words>
+<word id="0" text="This" count="0" wordType="normal">
+<rect xMin="211.410" yMin="116.550" xMax="243.600" yMax="134.550"/>
+<fontInfo name="NQEDQD+LMRoman17-Regular-Identity-H" size="18.000"/>
+<chars yMin="116.550" yMax="134.550" count="4.000">
+<char text="T" left="211.410"/>
+<char text="h" left="223.440"/>
+<char text="i" left="232.640"/>
+<char text="s" left="237.140"/>
+<char text="" left="243.600"/>
+</chars>
+</word>
+<word id="1" text="is" count="0" wordType="normal">
+<rect xMin="249.020" yMin="116.550" xMax="259.980" yMax="134.550"/>
+<fontInfo name="NQEDQD+LMRoman17-Regular-Identity-H" size="18.000"/>
+<chars yMin="116.550" yMax="134.550" count="2.000">
+<char text="i" left="249.020"/>
+<char text="s" left="253.520"/>
+<char text="" left="259.980"/>
+</chars>
+</word>
+<word id="2" text="a" count="0" wordType="normal">
+<rect xMin="265.410" yMin="116.550" xMax="273.680" yMax="134.550"/>
+<fontInfo name="NQEDQD+LMRoman17-Regular-Identity-H" size="18.000"/>
+<chars yMin="116.550" yMax="134.550" count="1.000">
+<char text="a" left="265.410"/>
+<char text="" left="273.680"/>
+</chars>
+</word>
+<word id="3" text="test" count="0" wordType="normal">
+<rect xMin="279.110" yMin="116.550" xMax="305.630" yMax="134.550"/>
+<fontInfo name="NQEDQD+LMRoman17-Regular-Identity-H" size="18.000"/>
+<chars yMin="116.550" yMax="134.550" count="4.000">
+<char text="t" left="279.110"/>
+<char text="e" left="285.480"/>
+<char text="s" left="292.790"/>
+<char text="t" left="299.250"/>
+<char text="" left="305.630"/>
+</chars>
+</word>
+<word id="4" text="for" count="0" wordType="normal">
+<rect xMin="311.060" yMin="116.550" xMax="330.660" yMax="134.550"/>
+<fontInfo name="NQEDQD+LMRoman17-Regular-Identity-H" size="18.000"/>
+<chars yMin="116.550" yMax="134.550" count="3.000">
+<char text="f" left="311.060"/>
+<char text="o" left="316.030"/>
+<char text="r" left="324.290"/>
+<char text="" left="330.660"/>
+</chars>
+</word>
+<word id="5" text="vscode" count="0" wordType="normal">
+<rect xMin="336.100" yMin="116.550" xMax="383.850" yMax="134.550"/>
+<fontInfo name="NQEDQD+LMRoman17-Regular-Identity-H" size="18.000"/>
+<chars yMin="116.550" yMax="134.550" count="6.000">
+<char text="v" left="336.100"/>
+<char text="s" left="344.830"/>
+<char text="c" left="351.290"/>
+<char text="o" left="358.620"/>
+<char text="d" left="367.350"/>
+<char text="e" left="376.550"/>
+<char text="" left="383.850"/>
+</chars>
+</word>
+</words>
+</text>
+<text id="1" count="1" text="Ali-loner">
+<rect xMin="275.280" yMin="155.840" xMax="319.990" yMax="167.840"/>
+<words>
+<word id="6" text="Ali-loner" count="0" wordType="normal">
+<rect xMin="275.280" yMin="155.840" xMax="319.990" yMax="167.840"/>
+<fontInfo name="NOEUWI+LMRoman12-Regular-Identity-H" size="12.000"/>
+<chars yMin="155.840" yMax="167.840" count="9.000">
+<char text="A" left="275.280"/>
+<char text="l" left="284.090"/>
+<char text="i" left="287.350"/>
+<char text="-" left="290.610"/>
+<char text="l" left="294.530"/>
+<char text="o" left="297.790"/>
+<char text="n" left="303.670"/>
+<char text="e" left="310.200"/>
+<char text="r" left="315.420"/>
+<char text="" left="319.990"/>
+</chars>
+</word>
+</words>
+</text>
+<text id="2" count="1" text="2020.08.02">
+<rect xMin="270.850" yMin="182.720" xMax="324.420" yMax="194.720"/>
+<words>
+<word id="7" text="2020.08.02" count="0" wordType="normal">
+<rect xMin="270.850" yMin="182.720" xMax="324.420" yMax="194.720"/>
+<fontInfo name="NOEUWI+LMRoman12-Regular-Identity-H" size="12.000"/>
+<chars yMin="182.720" yMax="194.720" count="10.000">
+<char text="2" left="270.850"/>
+<char text="0" left="276.730"/>
+<char text="2" left="282.610"/>
+<char text="0" left="288.490"/>
+<char text="." left="294.370"/>
+<char text="0" left="297.630"/>
+<char text="8" left="303.510"/>
+<char text="." left="309.390"/>
+<char text="0" left="312.660"/>
+<char text="2" left="318.540"/>
+<char text="" left="324.420"/>
+</chars>
+</word>
+</words>
+</text>
+<text id="3" count="1" text="摘要">
+<rect xMin="288.630" yMin="224.410" xMax="306.630" yMax="233.410"/>
+<words>
+<word id="8" text="摘要" count="0" wordType="normal">
+<rect xMin="288.630" yMin="224.410" xMax="306.630" yMax="233.410"/>
+<fontInfo name="VVBQYQ+SimHei" size="9.000"/>
+<chars yMin="224.410" yMax="233.410" count="2.000">
+<char text="摘" left="288.630"/>
+<char text="要" left="297.630"/>
+<char text="" left="306.630"/>
+</chars>
+</word>
+</words>
+</text>
+<text id="4" count="15" text="Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem non justo.">
+<rect xMin="110.400" yMin="244.390" xMax="498.370" yMax="253.390"/>
+<words>
+<word id="9" text="Nam" count="0" wordType="normal">
+<rect xMin="110.400" yMin="244.390" xMax="129.670" yMax="253.390"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="244.390" yMax="253.390" count="3.000">
+<char text="N" left="110.400"/>
+<char text="a" left="117.340"/>
+<char text="m" left="121.970"/>
+<char text="" left="129.670"/>
+</chars>
+</word>
+<word id="10" text="dui" count="0" wordType="normal">
+<rect xMin="132.590" yMin="244.390" xMax="145.440" yMax="253.390"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="244.390" yMax="253.390" count="3.000">
+<char text="d" left="132.590"/>
+<char text="u" left="137.730"/>
+<char text="i" left="142.870"/>
+<char text="" left="145.440"/>
+</chars>
+</word>
+<word id="11" text="ligula," count="0" wordType="normal">
+<rect xMin="148.360" yMin="244.390" xMax="173.040" yMax="253.390"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="244.390" yMax="253.390" count="7.000">
+<char text="l" left="148.360"/>
+<char text="i" left="150.930"/>
+<char text="g" left="153.500"/>
+<char text="u" left="158.130"/>
+<char text="l" left="163.270"/>
+<char text="a" left="165.840"/>
+<char text="," left="170.470"/>
+<char text="" left="173.040"/>
+</chars>
+</word>
+<word id="12" text="fringilla" count="0" wordType="normal">
+<rect xMin="175.990" yMin="244.390" xMax="207.130" yMax="253.390"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="244.390" yMax="253.390" count="9.000">
+<char text="f" left="175.990"/>
+<char text="r" left="178.820"/>
+<char text="i" left="182.440"/>
+<char text="n" left="185.010"/>
+<char text="g" left="190.150"/>
+<char text="i" left="194.780"/>
+<char text="l" left="197.350"/>
+<char text="l" left="199.930"/>
+<char text="a" left="202.500"/>
+<char text="" left="207.130"/>
+</chars>
+</word>
+<word id="13" text="a," count="0" wordType="normal">
+<rect xMin="210.040" yMin="244.390" xMax="217.240" yMax="253.390"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="244.390" yMax="253.390" count="2.000">
+<char text="a" left="210.040"/>
+<char text="," left="214.670"/>
+<char text="" left="217.240"/>
+</chars>
+</word>
+<word id="14" text="euismod" count="0" wordType="normal">
+<rect xMin="220.190" yMin="244.390" xMax="253.390" yMax="253.390"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="244.390" yMax="253.390" count="7.000">
+<char text="e" left="220.190"/>
+<char text="u" left="224.310"/>
+<char text="i" left="229.450"/>
+<char text="s" left="232.020"/>
+<char text="m" left="235.660"/>
+<char text="o" left="243.370"/>
+<char text="d" left="248.260"/>
+<char text="" left="253.390"/>
+</chars>
+</word>
+<word id="15" text="sodales," count="0" wordType="normal">
+<rect xMin="256.310" yMin="244.390" xMax="287.510" yMax="253.390"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="244.390" yMax="253.390" count="8.000">
+<char text="s" left="256.310"/>
+<char text="o" left="259.960"/>
+<char text="d" left="264.840"/>
+<char text="a" left="269.980"/>
+<char text="l" left="274.610"/>
+<char text="e" left="277.180"/>
+<char text="s" left="281.290"/>
+<char text="," left="284.940"/>
+<char text="" left="287.510"/>
+</chars>
+</word>
+<word id="16" text="sollicitudin" count="0" wordType="normal">
+<rect xMin="290.470" yMin="244.390" xMax="334.740" yMax="253.390"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="244.390" yMax="253.390" count="12.000">
+<char text="s" left="290.470"/>
+<char text="o" left="294.110"/>
+<char text="l" left="298.740"/>
+<char text="l" left="301.310"/>
+<char text="i" left="303.880"/>
+<char text="c" left="306.460"/>
+<char text="i" left="310.570"/>
+<char text="t" left="313.150"/>
+<char text="u" left="316.750"/>
+<char text="d" left="321.880"/>
+<char text="i" left="327.020"/>
+<char text="n" left="329.600"/>
+<char text="" left="334.740"/>
+</chars>
+</word>
+<word id="17" text="vel," count="0" wordType="normal">
+<rect xMin="337.650" yMin="244.390" xMax="351.540" yMax="253.390"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="244.390" yMax="253.390" count="4.000">
+<char text="v" left="337.650"/>
+<char text="e" left="342.280"/>
+<char text="l" left="346.390"/>
+<char text="," left="348.970"/>
+<char text="" left="351.540"/>
+</chars>
+</word>
+<word id="18" text="wisi." count="0" wordType="normal">
+<rect xMin="354.480" yMin="244.390" xMax="372.530" yMax="253.390"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="244.390" yMax="253.390" count="5.000">
+<char text="w" left="354.480"/>
+<char text="i" left="361.160"/>
+<char text="s" left="363.730"/>
+<char text="i" left="367.380"/>
+<char text="." left="369.950"/>
+<char text="" left="372.530"/>
+</chars>
+</word>
+<word id="19" text="Morbi" count="0" wordType="normal">
+<rect xMin="376.590" yMin="244.390" xMax="401.020" yMax="253.390"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="244.390" yMax="253.390" count="5.000">
+<char text="M" left="376.590"/>
+<char text="o" left="385.060"/>
+<char text="r" left="389.690"/>
+<char text="b" left="393.310"/>
+<char text="i" left="398.450"/>
+<char text="" left="401.020"/>
+</chars>
+</word>
+<word id="20" text="auctor" count="0" wordType="normal">
+<rect xMin="403.940" yMin="244.390" xMax="429.660" yMax="253.390"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="244.390" yMax="253.390" count="6.000">
+<char text="a" left="403.940"/>
+<char text="u" left="408.560"/>
+<char text="c" left="413.700"/>
+<char text="t" left="417.820"/>
+<char text="o" left="421.420"/>
+<char text="r" left="426.040"/>
+<char text="" left="429.660"/>
+</chars>
+</word>
+<word id="21" text="lorem" count="0" wordType="normal">
+<rect xMin="432.580" yMin="244.390" xMax="455.210" yMax="253.390"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="244.390" yMax="253.390" count="5.000">
+<char text="l" left="432.580"/>
+<char text="o" left="435.150"/>
+<char text="r" left="439.780"/>
+<char text="e" left="443.390"/>
+<char text="m" left="447.510"/>
+<char text="" left="455.210"/>
+</chars>
+</word>
+<word id="22" text="non" count="0" wordType="normal">
+<rect xMin="458.130" yMin="244.390" xMax="473.030" yMax="253.390"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="244.390" yMax="253.390" count="3.000">
+<char text="n" left="458.130"/>
+<char text="o" left="463.270"/>
+<char text="n" left="467.890"/>
+<char text="" left="473.030"/>
+</chars>
+</word>
+<word id="23" text="justo." count="0" wordType="normal">
+<rect xMin="475.960" yMin="244.390" xMax="498.370" yMax="253.390"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="244.390" yMax="253.390" count="6.000">
+<char text="j" left="475.960"/>
+<char text="u" left="478.780"/>
+<char text="s" left="483.920"/>
+<char text="t" left="487.570"/>
+<char text="o" left="491.170"/>
+<char text="." left="495.790"/>
+<char text="" left="498.370"/>
+</chars>
+</word>
+</words>
+</text>
+<text id="5" count="15" text="Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus. Donec aliquet, tortor sed accumsan">
+<rect xMin="96.900" yMin="258.430" xMax="498.370" yMax="267.430"/>
+<words>
+<word id="24" text="Nam" count="0" wordType="normal">
+<rect xMin="96.900" yMin="258.430" xMax="116.170" yMax="267.430"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="258.430" yMax="267.430" count="3.000">
+<char text="N" left="96.900"/>
+<char text="a" left="103.840"/>
+<char text="m" left="108.470"/>
+<char text="" left="116.170"/>
+</chars>
+</word>
+<word id="25" text="lacus" count="0" wordType="normal">
+<rect xMin="119.200" yMin="258.430" xMax="139.300" yMax="267.430"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="258.430" yMax="267.430" count="5.000">
+<char text="l" left="119.200"/>
+<char text="a" left="121.780"/>
+<char text="c" left="126.400"/>
+<char text="u" left="130.520"/>
+<char text="s" left="135.660"/>
+<char text="" left="139.300"/>
+</chars>
+</word>
+<word id="26" text="libero," count="0" wordType="normal">
+<rect xMin="142.330" yMin="258.430" xMax="167.810" yMax="267.430"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="258.430" yMax="267.430" count="7.000">
+<char text="l" left="142.330"/>
+<char text="i" left="144.910"/>
+<char text="b" left="147.480"/>
+<char text="e" left="152.880"/>
+<char text="r" left="157.000"/>
+<char text="o" left="160.610"/>
+<char text="," left="165.240"/>
+<char text="" left="167.810"/>
+</chars>
+</word>
+<word id="27" text="pretium" count="0" wordType="normal">
+<rect xMin="170.860" yMin="258.430" xMax="202.750" yMax="267.430"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="258.430" yMax="267.430" count="7.000">
+<char text="p" left="170.860"/>
+<char text="r" left="176.000"/>
+<char text="e" left="179.620"/>
+<char text="t" left="183.730"/>
+<char text="i" left="187.330"/>
+<char text="u" left="189.910"/>
+<char text="m" left="195.050"/>
+<char text="" left="202.750"/>
+</chars>
+</word>
+<word id="28" text="at," count="0" wordType="normal">
+<rect xMin="205.780" yMin="258.430" xMax="216.580" yMax="267.430"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="258.430" yMax="267.430" count="3.000">
+<char text="a" left="205.780"/>
+<char text="t" left="210.410"/>
+<char text="," left="214.010"/>
+<char text="" left="216.580"/>
+</chars>
+</word>
+<word id="29" text="lobortis" count="0" wordType="normal">
+<rect xMin="219.630" yMin="258.430" xMax="250.300" yMax="267.430"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="258.430" yMax="267.430" count="8.000">
+<char text="l" left="219.630"/>
+<char text="o" left="222.210"/>
+<char text="b" left="226.840"/>
+<char text="o" left="232.240"/>
+<char text="r" left="236.860"/>
+<char text="t" left="240.480"/>
+<char text="i" left="244.080"/>
+<char text="s" left="246.650"/>
+<char text="" left="250.300"/>
+</chars>
+</word>
+<word id="30" text="vitae," count="0" wordType="normal">
+<rect xMin="253.330" yMin="258.430" xMax="275.700" yMax="267.430"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="258.430" yMax="267.430" count="6.000">
+<char text="v" left="253.330"/>
+<char text="i" left="258.210"/>
+<char text="t" left="260.780"/>
+<char text="a" left="264.380"/>
+<char text="e" left="269.010"/>
+<char text="," left="273.120"/>
+<char text="" left="275.700"/>
+</chars>
+</word>
+<word id="31" text="ultricies" count="0" wordType="normal">
+<rect xMin="278.750" yMin="258.430" xMax="310.700" yMax="267.430"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="258.430" yMax="267.430" count="9.000">
+<char text="u" left="278.750"/>
+<char text="l" left="283.890"/>
+<char text="t" left="286.460"/>
+<char text="r" left="290.060"/>
+<char text="i" left="293.680"/>
+<char text="c" left="296.250"/>
+<char text="i" left="300.370"/>
+<char text="e" left="302.940"/>
+<char text="s" left="307.050"/>
+<char text="" left="310.700"/>
+</chars>
+</word>
+<word id="32" text="et," count="0" wordType="normal">
+<rect xMin="313.730" yMin="258.430" xMax="324.020" yMax="267.430"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="258.430" yMax="267.430" count="3.000">
+<char text="e" left="313.730"/>
+<char text="t" left="317.840"/>
+<char text="," left="321.440"/>
+<char text="" left="324.020"/>
+</chars>
+</word>
+<word id="33" text="tellus." count="0" wordType="normal">
+<rect xMin="327.060" yMin="258.430" xMax="351.280" yMax="267.430"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="258.430" yMax="267.430" count="7.000">
+<char text="t" left="327.060"/>
+<char text="e" left="330.660"/>
+<char text="l" left="334.770"/>
+<char text="l" left="337.350"/>
+<char text="u" left="339.920"/>
+<char text="s" left="345.060"/>
+<char text="." left="348.700"/>
+<char text="" left="351.280"/>
+</chars>
+</word>
+<word id="34" text="Donec" count="0" wordType="normal">
+<rect xMin="355.380" yMin="258.430" xMax="380.440" yMax="267.430"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="258.430" yMax="267.430" count="5.000">
+<char text="D" left="355.380"/>
+<char text="o" left="362.450"/>
+<char text="n" left="367.070"/>
+<char text="e" left="372.210"/>
+<char text="c" left="376.330"/>
+<char text="" left="380.440"/>
+</chars>
+</word>
+<word id="35" text="aliquet," count="0" wordType="normal">
+<rect xMin="383.470" yMin="258.430" xMax="413.550" yMax="267.430"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="258.430" yMax="267.430" count="8.000">
+<char text="a" left="383.470"/>
+<char text="l" left="388.100"/>
+<char text="i" left="390.670"/>
+<char text="q" left="393.250"/>
+<char text="u" left="398.120"/>
+<char text="e" left="403.260"/>
+<char text="t" left="407.380"/>
+<char text="," left="410.980"/>
+<char text="" left="413.550"/>
+</chars>
+</word>
+<word id="36" text="tortor" count="0" wordType="normal">
+<rect xMin="416.600" yMin="258.430" xMax="440.290" yMax="267.430"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="258.430" yMax="267.430" count="6.000">
+<char text="t" left="416.600"/>
+<char text="o" left="420.200"/>
+<char text="r" left="424.830"/>
+<char text="t" left="428.440"/>
+<char text="o" left="432.040"/>
+<char text="r" left="436.670"/>
+<char text="" left="440.290"/>
+</chars>
+</word>
+<word id="37" text="sed" count="0" wordType="normal">
+<rect xMin="443.320" yMin="258.430" xMax="456.220" yMax="267.430"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="258.430" yMax="267.430" count="3.000">
+<char text="s" left="443.320"/>
+<char text="e" left="446.970"/>
+<char text="d" left="451.080"/>
+<char text="" left="456.220"/>
+</chars>
+</word>
+<word id="38" text="accumsan" count="0" wordType="normal">
+<rect xMin="459.260" yMin="258.430" xMax="498.370" yMax="267.430"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="258.430" yMax="267.430" count="8.000">
+<char text="a" left="459.260"/>
+<char text="c" left="463.890"/>
+<char text="c" left="468.000"/>
+<char text="u" left="472.110"/>
+<char text="m" left="477.250"/>
+<char text="s" left="484.960"/>
+<char text="a" left="488.600"/>
+<char text="n" left="493.230"/>
+<char text="" left="498.370"/>
+</chars>
+</word>
+</words>
+</text>
+<text id="6" count="17" text="bibendum, erat ligula aliquet magna, vitae ornare odio metus a mi. Morbi ac orci et nisl hendrerit">
+<rect xMin="96.900" yMin="272.470" xMax="498.370" yMax="281.470"/>
+<words>
+<word id="39" text="bibendum," count="0" wordType="normal">
+<rect xMin="96.900" yMin="272.470" xMax="139.810" yMax="281.470"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="272.470" yMax="281.470" count="9.000">
+<char text="b" left="96.900"/>
+<char text="i" left="102.040"/>
+<char text="b" left="104.620"/>
+<char text="e" left="110.010"/>
+<char text="n" left="114.120"/>
+<char text="d" left="119.260"/>
+<char text="u" left="124.400"/>
+<char text="m" left="129.540"/>
+<char text="," left="137.240"/>
+<char text="" left="139.810"/>
+</chars>
+</word>
+<word id="40" text="erat" count="0" wordType="normal">
+<rect xMin="143.050" yMin="272.470" xMax="159.000" yMax="281.470"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="272.470" yMax="281.470" count="4.000">
+<char text="e" left="143.050"/>
+<char text="r" left="147.160"/>
+<char text="a" left="150.780"/>
+<char text="t" left="155.400"/>
+<char text="" left="159.000"/>
+</chars>
+</word>
+<word id="41" text="ligula" count="0" wordType="normal">
+<rect xMin="162.200" yMin="272.470" xMax="184.310" yMax="281.470"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="272.470" yMax="281.470" count="6.000">
+<char text="l" left="162.200"/>
+<char text="i" left="164.770"/>
+<char text="g" left="167.350"/>
+<char text="u" left="171.970"/>
+<char text="l" left="177.110"/>
+<char text="a" left="179.680"/>
+<char text="" left="184.310"/>
+</chars>
+</word>
+<word id="42" text="aliquet" count="0" wordType="normal">
+<rect xMin="187.510" yMin="272.470" xMax="215.010" yMax="281.470"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="272.470" yMax="281.470" count="7.000">
+<char text="a" left="187.510"/>
+<char text="l" left="192.130"/>
+<char text="i" left="194.710"/>
+<char text="q" left="197.280"/>
+<char text="u" left="202.160"/>
+<char text="e" left="207.300"/>
+<char text="t" left="211.410"/>
+<char text="" left="215.010"/>
+</chars>
+</word>
+<word id="43" text="magna," count="0" wordType="normal">
+<rect xMin="218.200" yMin="272.470" xMax="247.500" yMax="281.470"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="272.470" yMax="281.470" count="6.000">
+<char text="m" left="218.200"/>
+<char text="a" left="225.910"/>
+<char text="g" left="230.530"/>
+<char text="n" left="235.160"/>
+<char text="a" left="240.300"/>
+<char text="," left="244.930"/>
+<char text="" left="247.500"/>
+</chars>
+</word>
+<word id="44" text="vitae" count="0" wordType="normal">
+<rect xMin="250.720" yMin="272.470" xMax="270.510" yMax="281.470"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="272.470" yMax="281.470" count="5.000">
+<char text="v" left="250.720"/>
+<char text="i" left="255.600"/>
+<char text="t" left="258.170"/>
+<char text="a" left="261.770"/>
+<char text="e" left="266.400"/>
+<char text="" left="270.510"/>
+</chars>
+</word>
+<word id="45" text="ornare" count="0" wordType="normal">
+<rect xMin="273.710" yMin="272.470" xMax="299.450" yMax="281.470"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="272.470" yMax="281.470" count="6.000">
+<char text="o" left="273.710"/>
+<char text="r" left="278.330"/>
+<char text="n" left="281.950"/>
+<char text="a" left="287.090"/>
+<char text="r" left="291.720"/>
+<char text="e" left="295.330"/>
+<char text="" left="299.450"/>
+</chars>
+</word>
+<word id="46" text="odio" count="0" wordType="normal">
+<rect xMin="302.640" yMin="272.470" xMax="319.870" yMax="281.470"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="272.470" yMax="281.470" count="4.000">
+<char text="o" left="302.640"/>
+<char text="d" left="307.530"/>
+<char text="i" left="312.670"/>
+<char text="o" left="315.240"/>
+<char text="" left="319.870"/>
+</chars>
+</word>
+<word id="47" text="metus" count="0" wordType="normal">
+<rect xMin="323.060" yMin="272.470" xMax="347.260" yMax="281.470"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="272.470" yMax="281.470" count="5.000">
+<char text="m" left="323.060"/>
+<char text="e" left="330.770"/>
+<char text="t" left="334.880"/>
+<char text="u" left="338.480"/>
+<char text="s" left="343.620"/>
+<char text="" left="347.260"/>
+</chars>
+</word>
+<word id="48" text="a" count="0" wordType="normal">
+<rect xMin="350.460" yMin="272.470" xMax="355.090" yMax="281.470"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="272.470" yMax="281.470" count="1.000">
+<char text="a" left="350.460"/>
+<char text="" left="355.090"/>
+</chars>
+</word>
+<word id="49" text="mi." count="0" wordType="normal">
+<rect xMin="358.280" yMin="272.470" xMax="371.130" yMax="281.470"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="272.470" yMax="281.470" count="3.000">
+<char text="m" left="358.280"/>
+<char text="i" left="365.980"/>
+<char text="." left="368.560"/>
+<char text="" left="371.130"/>
+</chars>
+</word>
+<word id="50" text="Morbi" count="0" wordType="normal">
+<rect xMin="375.580" yMin="272.470" xMax="400.010" yMax="281.470"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="272.470" yMax="281.470" count="5.000">
+<char text="M" left="375.580"/>
+<char text="o" left="384.060"/>
+<char text="r" left="388.680"/>
+<char text="b" left="392.300"/>
+<char text="i" left="397.440"/>
+<char text="" left="400.010"/>
+</chars>
+</word>
+<word id="51" text="ac" count="0" wordType="normal">
+<rect xMin="403.210" yMin="272.470" xMax="411.950" yMax="281.470"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="272.470" yMax="281.470" count="2.000">
+<char text="a" left="403.210"/>
+<char text="c" left="407.830"/>
+<char text="" left="411.950"/>
+</chars>
+</word>
+<word id="52" text="orci" count="0" wordType="normal">
+<rect xMin="415.140" yMin="272.470" xMax="430.070" yMax="281.470"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="272.470" yMax="281.470" count="4.000">
+<char text="o" left="415.140"/>
+<char text="r" left="419.770"/>
+<char text="c" left="423.390"/>
+<char text="i" left="427.500"/>
+<char text="" left="430.070"/>
+</chars>
+</word>
+<word id="53" text="et" count="0" wordType="normal">
+<rect xMin="433.270" yMin="272.470" xMax="440.980" yMax="281.470"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="272.470" yMax="281.470" count="2.000">
+<char text="e" left="433.270"/>
+<char text="t" left="437.380"/>
+<char text="" left="440.980"/>
+</chars>
+</word>
+<word id="54" text="nisl" count="0" wordType="normal">
+<rect xMin="444.180" yMin="272.470" xMax="458.110" yMax="281.470"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="272.470" yMax="281.470" count="4.000">
+<char text="n" left="444.180"/>
+<char text="i" left="449.320"/>
+<char text="s" left="451.890"/>
+<char text="l" left="455.530"/>
+<char text="" left="458.110"/>
+</chars>
+</word>
+<word id="55" text="hendrerit" count="0" wordType="normal">
+<rect xMin="461.310" yMin="272.470" xMax="498.370" yMax="281.470"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="272.470" yMax="281.470" count="9.000">
+<char text="h" left="461.310"/>
+<char text="e" left="466.450"/>
+<char text="n" left="470.560"/>
+<char text="d" left="475.700"/>
+<char text="r" left="480.840"/>
+<char text="e" left="484.460"/>
+<char text="r" left="488.570"/>
+<char text="i" left="492.190"/>
+<char text="t" left="494.770"/>
+<char text="" left="498.370"/>
+</chars>
+</word>
+</words>
+</text>
+<text id="7" count="15" text="mollis. Suspendisse ut massa. Cras nec ante. Pellentesque a nulla. Cum sociis natoque penatibus et">
+<rect xMin="96.900" yMin="286.510" xMax="498.370" yMax="295.510"/>
+<words>
+<word id="56" text="mollis." count="0" wordType="normal">
+<rect xMin="96.900" yMin="286.510" xMax="123.170" yMax="295.510"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="286.510" yMax="295.510" count="7.000">
+<char text="m" left="96.900"/>
+<char text="o" left="104.610"/>
+<char text="l" left="109.230"/>
+<char text="l" left="111.810"/>
+<char text="i" left="114.380"/>
+<char text="s" left="116.950"/>
+<char text="." left="120.600"/>
+<char text="" left="123.170"/>
+</chars>
+</word>
+<word id="57" text="Suspendisse" count="0" wordType="normal">
+<rect xMin="127.160" yMin="286.510" xMax="174.850" yMax="295.510"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="286.510" yMax="295.510" count="11.000">
+<char text="S" left="127.160"/>
+<char text="u" left="132.300"/>
+<char text="s" left="137.440"/>
+<char text="p" left="141.080"/>
+<char text="e" left="146.480"/>
+<char text="n" left="150.600"/>
+<char text="d" left="155.740"/>
+<char text="i" left="160.870"/>
+<char text="s" left="163.450"/>
+<char text="s" left="167.090"/>
+<char text="e" left="170.740"/>
+<char text="" left="174.850"/>
+</chars>
+</word>
+<word id="58" text="ut" count="0" wordType="normal">
+<rect xMin="177.560" yMin="286.510" xMax="186.300" yMax="295.510"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="286.510" yMax="295.510" count="2.000">
+<char text="u" left="177.560"/>
+<char text="t" left="182.700"/>
+<char text="" left="186.300"/>
+</chars>
+</word>
+<word id="59" text="massa." count="0" wordType="normal">
+<rect xMin="189.000" yMin="286.510" xMax="215.820" yMax="295.510"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="286.510" yMax="295.510" count="6.000">
+<char text="m" left="189.000"/>
+<char text="a" left="196.700"/>
+<char text="s" left="201.330"/>
+<char text="s" left="204.970"/>
+<char text="a" left="208.620"/>
+<char text="." left="213.250"/>
+<char text="" left="215.820"/>
+</chars>
+</word>
+<word id="60" text="Cras" count="0" wordType="normal">
+<rect xMin="219.820" yMin="286.510" xMax="238.380" yMax="295.510"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="286.510" yMax="295.510" count="4.000">
+<char text="C" left="219.820"/>
+<char text="r" left="226.490"/>
+<char text="a" left="230.110"/>
+<char text="s" left="234.740"/>
+<char text="" left="238.380"/>
+</chars>
+</word>
+<word id="61" text="nec" count="0" wordType="normal">
+<rect xMin="241.080" yMin="286.510" xMax="254.450" yMax="295.510"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="286.510" yMax="295.510" count="3.000">
+<char text="n" left="241.080"/>
+<char text="e" left="246.220"/>
+<char text="c" left="250.330"/>
+<char text="" left="254.450"/>
+</chars>
+</word>
+<word id="62" text="ante." count="0" wordType="normal">
+<rect xMin="257.160" yMin="286.510" xMax="276.960" yMax="295.510"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="286.510" yMax="295.510" count="5.000">
+<char text="a" left="257.160"/>
+<char text="n" left="261.780"/>
+<char text="t" left="266.670"/>
+<char text="e" left="270.270"/>
+<char text="." left="274.380"/>
+<char text="" left="276.960"/>
+</chars>
+</word>
+<word id="63" text="Pellentesque" count="0" wordType="normal">
+<rect xMin="280.930" yMin="286.510" xMax="330.710" yMax="295.510"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="286.510" yMax="295.510" count="12.000">
+<char text="P" left="280.930"/>
+<char text="e" left="286.970"/>
+<char text="l" left="291.090"/>
+<char text="l" left="293.660"/>
+<char text="e" left="296.230"/>
+<char text="n" left="300.350"/>
+<char text="t" left="305.230"/>
+<char text="e" left="308.830"/>
+<char text="s" left="312.940"/>
+<char text="q" left="316.580"/>
+<char text="u" left="321.460"/>
+<char text="e" left="326.600"/>
+<char text="" left="330.710"/>
+</chars>
+</word>
+<word id="64" text="a" count="0" wordType="normal">
+<rect xMin="333.410" yMin="286.510" xMax="338.040" yMax="295.510"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="286.510" yMax="295.510" count="1.000">
+<char text="a" left="333.410"/>
+<char text="" left="338.040"/>
+</chars>
+</word>
+<word id="65" text="nulla." count="0" wordType="normal">
+<rect xMin="340.750" yMin="286.510" xMax="363.120" yMax="295.510"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="286.510" yMax="295.510" count="6.000">
+<char text="n" left="340.750"/>
+<char text="u" left="345.640"/>
+<char text="l" left="350.770"/>
+<char text="l" left="353.350"/>
+<char text="a" left="355.920"/>
+<char text="." left="360.550"/>
+<char text="" left="363.120"/>
+</chars>
+</word>
+<word id="66" text="Cum" count="0" wordType="normal">
+<rect xMin="367.100" yMin="286.510" xMax="386.620" yMax="295.510"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="286.510" yMax="295.510" count="3.000">
+<char text="C" left="367.100"/>
+<char text="u" left="373.780"/>
+<char text="m" left="378.920"/>
+<char text="" left="386.620"/>
+</chars>
+</word>
+<word id="67" text="sociis" count="0" wordType="normal">
+<rect xMin="389.330" yMin="286.510" xMax="410.770" yMax="295.510"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="286.510" yMax="295.510" count="6.000">
+<char text="s" left="389.330"/>
+<char text="o" left="392.980"/>
+<char text="c" left="397.860"/>
+<char text="i" left="401.980"/>
+<char text="i" left="404.550"/>
+<char text="s" left="407.120"/>
+<char text="" left="410.770"/>
+</chars>
+</word>
+<word id="68" text="natoque" count="0" wordType="normal">
+<rect xMin="413.480" yMin="286.510" xMax="445.860" yMax="295.510"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="286.510" yMax="295.510" count="7.000">
+<char text="n" left="413.480"/>
+<char text="a" left="418.620"/>
+<char text="t" left="423.240"/>
+<char text="o" left="426.840"/>
+<char text="q" left="431.730"/>
+<char text="u" left="436.610"/>
+<char text="e" left="441.750"/>
+<char text="" left="445.860"/>
+</chars>
+</word>
+<word id="69" text="penatibus" count="0" wordType="normal">
+<rect xMin="448.570" yMin="286.510" xMax="487.940" yMax="295.510"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="286.510" yMax="295.510" count="9.000">
+<char text="p" left="448.570"/>
+<char text="e" left="453.970"/>
+<char text="n" left="458.080"/>
+<char text="a" left="463.220"/>
+<char text="t" left="467.850"/>
+<char text="i" left="471.450"/>
+<char text="b" left="474.020"/>
+<char text="u" left="479.160"/>
+<char text="s" left="484.300"/>
+<char text="" left="487.940"/>
+</chars>
+</word>
+<word id="70" text="et" count="0" wordType="normal">
+<rect xMin="490.650" yMin="286.510" xMax="498.370" yMax="295.510"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="286.510" yMax="295.510" count="2.000">
+<char text="e" left="490.650"/>
+<char text="t" left="494.770"/>
+<char text="" left="498.370"/>
+</chars>
+</word>
+</words>
+</text>
+<text id="8" count="12" text="magnis dis parturient montes, nascetur ridiculus mus. Aliquam tincidunt urna. Nulla ullamcorper">
+<rect xMin="96.900" yMin="300.550" xMax="498.370" yMax="309.550"/>
+<words>
+<word id="71" text="magnis" count="0" wordType="normal">
+<rect xMin="96.900" yMin="300.550" xMax="125.220" yMax="309.550"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="300.550" yMax="309.550" count="6.000">
+<char text="m" left="96.900"/>
+<char text="a" left="104.610"/>
+<char text="g" left="109.230"/>
+<char text="n" left="113.860"/>
+<char text="i" left="119.000"/>
+<char text="s" left="121.570"/>
+<char text="" left="125.220"/>
+</chars>
+</word>
+<word id="72" text="dis" count="0" wordType="normal">
+<rect xMin="128.570" yMin="300.550" xMax="139.930" yMax="309.550"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="300.550" yMax="309.550" count="3.000">
+<char text="d" left="128.570"/>
+<char text="i" left="133.710"/>
+<char text="s" left="136.290"/>
+<char text="" left="139.930"/>
+</chars>
+</word>
+<word id="73" text="parturient" count="0" wordType="normal">
+<rect xMin="143.290" yMin="300.550" xMax="184.200" yMax="309.550"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="300.550" yMax="309.550" count="10.000">
+<char text="p" left="143.290"/>
+<char text="a" left="148.430"/>
+<char text="r" left="153.050"/>
+<char text="t" left="156.670"/>
+<char text="u" left="160.270"/>
+<char text="r" left="165.410"/>
+<char text="i" left="169.030"/>
+<char text="e" left="171.600"/>
+<char text="n" left="175.720"/>
+<char text="t" left="180.600"/>
+<char text="" left="184.200"/>
+</chars>
+</word>
+<word id="74" text="montes," count="0" wordType="normal">
+<rect xMin="187.560" yMin="300.550" xMax="218.710" yMax="309.550"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="300.550" yMax="309.550" count="7.000">
+<char text="m" left="187.560"/>
+<char text="o" left="195.260"/>
+<char text="n" left="199.890"/>
+<char text="t" left="204.780"/>
+<char text="e" left="208.380"/>
+<char text="s" left="212.490"/>
+<char text="," left="216.130"/>
+<char text="" left="218.710"/>
+</chars>
+</word>
+<word id="75" text="nascetur" count="0" wordType="normal">
+<rect xMin="222.130" yMin="300.550" xMax="256.120" yMax="309.550"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="300.550" yMax="309.550" count="8.000">
+<char text="n" left="222.130"/>
+<char text="a" left="227.270"/>
+<char text="s" left="231.890"/>
+<char text="c" left="235.540"/>
+<char text="e" left="239.650"/>
+<char text="t" left="243.760"/>
+<char text="u" left="247.360"/>
+<char text="r" left="252.500"/>
+<char text="" left="256.120"/>
+</chars>
+</word>
+<word id="76" text="ridiculus" count="0" wordType="normal">
+<rect xMin="259.480" yMin="300.550" xMax="293.990" yMax="309.550"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="300.550" yMax="309.550" count="9.000">
+<char text="r" left="259.480"/>
+<char text="i" left="263.100"/>
+<char text="d" left="265.670"/>
+<char text="i" left="270.810"/>
+<char text="c" left="273.380"/>
+<char text="u" left="277.500"/>
+<char text="l" left="282.640"/>
+<char text="u" left="285.210"/>
+<char text="s" left="290.350"/>
+<char text="" left="293.990"/>
+</chars>
+</word>
+<word id="77" text="mus." count="0" wordType="normal">
+<rect xMin="297.360" yMin="300.550" xMax="316.170" yMax="309.550"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="300.550" yMax="309.550" count="4.000">
+<char text="m" left="297.360"/>
+<char text="u" left="304.810"/>
+<char text="s" left="309.950"/>
+<char text="." left="313.600"/>
+<char text="" left="316.170"/>
+</chars>
+</word>
+<word id="78" text="Aliquam" count="0" wordType="normal">
+<rect xMin="321.090" yMin="300.550" xMax="355.530" yMax="309.550"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="300.550" yMax="309.550" count="7.000">
+<char text="A" left="321.090"/>
+<char text="l" left="328.030"/>
+<char text="i" left="330.610"/>
+<char text="q" left="333.180"/>
+<char text="u" left="338.060"/>
+<char text="a" left="343.200"/>
+<char text="m" left="347.820"/>
+<char text="" left="355.530"/>
+</chars>
+</word>
+<word id="79" text="tincidunt" count="0" wordType="normal">
+<rect xMin="358.890" yMin="300.550" xMax="395.660" yMax="309.550"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="300.550" yMax="309.550" count="9.000">
+<char text="t" left="358.890"/>
+<char text="i" left="362.490"/>
+<char text="n" left="365.070"/>
+<char text="c" left="370.210"/>
+<char text="i" left="374.320"/>
+<char text="d" left="376.890"/>
+<char text="u" left="382.030"/>
+<char text="n" left="387.170"/>
+<char text="t" left="392.060"/>
+<char text="" left="395.660"/>
+</chars>
+</word>
+<word id="80" text="urna." count="0" wordType="normal">
+<rect xMin="399.010" yMin="300.550" xMax="420.100" yMax="309.550"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="300.550" yMax="309.550" count="5.000">
+<char text="u" left="399.010"/>
+<char text="r" left="404.140"/>
+<char text="n" left="407.760"/>
+<char text="a" left="412.900"/>
+<char text="." left="417.530"/>
+<char text="" left="420.100"/>
+</chars>
+</word>
+<word id="81" text="Nulla" count="0" wordType="normal">
+<rect xMin="425.040" yMin="300.550" xMax="446.890" yMax="309.550"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="300.550" yMax="309.550" count="5.000">
+<char text="N" left="425.040"/>
+<char text="u" left="431.980"/>
+<char text="l" left="437.120"/>
+<char text="l" left="439.690"/>
+<char text="a" left="442.270"/>
+<char text="" left="446.890"/>
+</chars>
+</word>
+<word id="82" text="ullamcorper" count="0" wordType="normal">
+<rect xMin="450.260" yMin="300.550" xMax="498.370" yMax="309.550"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="300.550" yMax="309.550" count="11.000">
+<char text="u" left="450.260"/>
+<char text="l" left="455.400"/>
+<char text="l" left="457.970"/>
+<char text="a" left="460.550"/>
+<char text="m" left="465.170"/>
+<char text="c" left="472.880"/>
+<char text="o" left="476.990"/>
+<char text="r" left="481.620"/>
+<char text="p" left="485.230"/>
+<char text="e" left="490.630"/>
+<char text="r" left="494.750"/>
+<char text="" left="498.370"/>
+</chars>
+</word>
+</words>
+</text>
+<text id="9" count="6" text="vestibulum turpis. Pellentesque cursus luctus mauris.">
+<rect xMin="96.900" yMin="314.590" xMax="313.060" yMax="323.590"/>
+<words>
+<word id="83" text="vestibulum" count="0" wordType="normal">
+<rect xMin="96.900" yMin="314.590" xMax="141.150" yMax="323.590"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="314.590" yMax="323.590" count="10.000">
+<char text="v" left="96.900"/>
+<char text="e" left="101.520"/>
+<char text="s" left="105.630"/>
+<char text="t" left="109.280"/>
+<char text="i" left="112.880"/>
+<char text="b" left="115.450"/>
+<char text="u" left="120.590"/>
+<char text="l" left="125.730"/>
+<char text="u" left="128.300"/>
+<char text="m" left="133.440"/>
+<char text="" left="141.150"/>
+</chars>
+</word>
+<word id="84" text="turpis." count="0" wordType="normal">
+<rect xMin="144.220" yMin="314.590" xMax="170.510" yMax="323.590"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="314.590" yMax="323.590" count="7.000">
+<char text="t" left="144.220"/>
+<char text="u" left="147.820"/>
+<char text="r" left="152.960"/>
+<char text="p" left="156.580"/>
+<char text="i" left="161.720"/>
+<char text="s" left="164.290"/>
+<char text="." left="167.940"/>
+<char text="" left="170.510"/>
+</chars>
+</word>
+<word id="85" text="Pellentesque" count="0" wordType="normal">
+<rect xMin="174.640" yMin="314.590" xMax="224.410" yMax="323.590"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="314.590" yMax="323.590" count="12.000">
+<char text="P" left="174.640"/>
+<char text="e" left="180.670"/>
+<char text="l" left="184.790"/>
+<char text="l" left="187.360"/>
+<char text="e" left="189.940"/>
+<char text="n" left="194.050"/>
+<char text="t" left="198.930"/>
+<char text="e" left="202.530"/>
+<char text="s" left="206.640"/>
+<char text="q" left="210.280"/>
+<char text="u" left="215.160"/>
+<char text="e" left="220.300"/>
+<char text="" left="224.410"/>
+</chars>
+</word>
+<word id="86" text="cursus" count="0" wordType="normal">
+<rect xMin="227.490" yMin="314.590" xMax="252.790" yMax="323.590"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="314.590" yMax="323.590" count="6.000">
+<char text="c" left="227.490"/>
+<char text="u" left="231.610"/>
+<char text="r" left="236.740"/>
+<char text="s" left="240.360"/>
+<char text="u" left="244.010"/>
+<char text="s" left="249.150"/>
+<char text="" left="252.790"/>
+</chars>
+</word>
+<word id="87" text="luctus" count="0" wordType="normal">
+<rect xMin="255.880" yMin="314.590" xMax="280.090" yMax="323.590"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="314.590" yMax="323.590" count="6.000">
+<char text="l" left="255.880"/>
+<char text="u" left="258.450"/>
+<char text="c" left="263.590"/>
+<char text="t" left="267.700"/>
+<char text="u" left="271.300"/>
+<char text="s" left="276.440"/>
+<char text="" left="280.090"/>
+</chars>
+</word>
+<word id="88" text="mauris." count="0" wordType="normal">
+<rect xMin="283.180" yMin="314.590" xMax="313.060" yMax="323.590"/>
+<fontInfo name="HEIBFP+LMRoman9-Regular-Identity-H" size="9.000"/>
+<chars yMin="314.590" yMax="323.590" count="7.000">
+<char text="m" left="283.180"/>
+<char text="a" left="290.880"/>
+<char text="u" left="295.510"/>
+<char text="r" left="300.640"/>
+<char text="i" left="304.260"/>
+<char text="s" left="306.840"/>
+<char text="." left="310.480"/>
+<char text="" left="313.060"/>
+</chars>
+</word>
+</words>
+</text>
+<text id="10" count="1" text="目录">
+<rect xMin="72.000" yMin="348.200" xMax="102.000" yMax="363.200"/>
+<words>
+<word id="89" text="目录" count="0" wordType="normal">
+<rect xMin="72.000" yMin="348.200" xMax="102.000" yMax="363.200"/>
+<fontInfo name="VVBQYQ+SimHei" size="15.000"/>
+<chars yMin="348.200" yMax="363.200" count="2.000">
+<char text="目" left="72.000"/>
+<char text="录" left="87.000"/>
+<char text="" left="102.000"/>
+</chars>
+</word>
+</words>
+</text>
+<text id="11" count="5" text="1 This is a section">
+<rect xMin="72.000" yMin="379.500" xMax="173.480" yMax="390.000"/>
+<words>
+<word id="90" text="1" count="0" wordType="normal">
+<rect xMin="72.000" yMin="379.500" xMax="78.030" yMax="390.000"/>
+<fontInfo name="ADVDVV+LMRoman10-Bold-Identity-H" size="10.500"/>
+<chars yMin="379.500" yMax="390.000" count="1.000">
+<char text="1" left="72.000"/>
+<char text="" left="78.030"/>
+</chars>
+</word>
+<word id="91" text="This" count="0" wordType="normal">
+<rect xMin="87.750" yMin="379.500" xMax="110.970" yMax="390.000"/>
+<fontInfo name="ADVDVV+LMRoman10-Bold-Identity-H" size="10.500"/>
+<chars yMin="379.500" yMax="390.000" count="4.000">
+<char text="T" left="87.750"/>
+<char text="h" left="96.150"/>
+<char text="i" left="102.850"/>
+<char text="s" left="106.200"/>
+<char text="" left="110.970"/>
+</chars>
+</word>
+<word id="92" text="is" count="0" wordType="normal">
+<rect xMin="114.990" yMin="379.500" xMax="123.110" yMax="390.000"/>
+<fontInfo name="ADVDVV+LMRoman10-Bold-Identity-H" size="10.500"/>
+<chars yMin="379.500" yMax="390.000" count="2.000">
+<char text="i" left="114.990"/>
+<char text="s" left="118.340"/>
+<char text="" left="123.110"/>
+</chars>
+</word>
+<word id="93" text="a" count="0" wordType="normal">
+<rect xMin="127.130" yMin="379.500" xMax="133.000" yMax="390.000"/>
+<fontInfo name="ADVDVV+LMRoman10-Bold-Identity-H" size="10.500"/>
+<chars yMin="379.500" yMax="390.000" count="1.000">
+<char text="a" left="127.130"/>
+<char text="" left="133.000"/>
+</chars>
+</word>
+<word id="94" text="section" count="0" wordType="normal">
+<rect xMin="137.020" yMin="379.500" xMax="173.480" yMax="390.000"/>
+<fontInfo name="ADVDVV+LMRoman10-Bold-Identity-H" size="10.500"/>
+<chars yMin="379.500" yMax="390.000" count="7.000">
+<char text="s" left="137.020"/>
+<char text="e" left="141.790"/>
+<char text="c" left="147.320"/>
+<char text="t" left="152.690"/>
+<char text="i" left="157.380"/>
+<char text="o" left="160.730"/>
+<char text="n" left="166.770"/>
+<char text="" left="173.480"/>
+</chars>
+</word>
+</words>
+</text>
+<text id="12" count="1" text="1">
+<rect xMin="517.230" yMin="379.500" xMax="523.270" yMax="390.000"/>
+<words>
+<word id="95" text="1" count="0" wordType="normal">
+<rect xMin="517.230" yMin="379.500" xMax="523.270" yMax="390.000"/>
+<fontInfo name="ADVDVV+LMRoman10-Bold-Identity-H" size="10.500"/>
+<chars yMin="379.500" yMax="390.000" count="1.000">
+<char text="1" left="517.230"/>
+<char text="" left="523.270"/>
+</chars>
+</word>
+</words>
+</text>
+<text id="13" count="5" text="1 This is a section">
+<rect xMin="72.000" yMin="415.110" xMax="215.270" yMax="430.110"/>
+<words>
+<word id="96" text="1" count="0" wordType="normal">
+<rect xMin="72.000" yMin="415.110" xMax="80.440" yMax="430.110"/>
+<fontInfo name="PAUGLQ+LMRoman12-Bold-Identity-H" size="15.000"/>
+<chars yMin="415.110" yMax="430.110" count="1.000">
+<char text="1" left="72.000"/>
+<char text="" left="80.440"/>
+</chars>
+</word>
+<word id="97" text="This" count="0" wordType="normal">
+<rect xMin="95.440" yMin="415.110" xMax="127.900" yMax="430.110"/>
+<fontInfo name="PAUGLQ+LMRoman12-Bold-Identity-H" size="15.000"/>
+<chars yMin="415.110" yMax="430.110" count="4.000">
+<char text="T" left="95.440"/>
+<char text="h" left="107.170"/>
+<char text="i" left="116.550"/>
+<char text="s" left="121.240"/>
+<char text="" left="127.900"/>
+</chars>
+</word>
+<word id="98" text="is" count="0" wordType="normal">
+<rect xMin="133.530" yMin="415.110" xMax="144.880" yMax="430.110"/>
+<fontInfo name="PAUGLQ+LMRoman12-Bold-Identity-H" size="15.000"/>
+<chars yMin="415.110" yMax="430.110" count="2.000">
+<char text="i" left="133.530"/>
+<char text="s" left="138.220"/>
+<char text="" left="144.880"/>
+</chars>
+</word>
+<word id="99" text="a" count="0" wordType="normal">
+<rect xMin="150.510" yMin="415.110" xMax="158.710" yMax="430.110"/>
+<fontInfo name="PAUGLQ+LMRoman12-Bold-Identity-H" size="15.000"/>
+<chars yMin="415.110" yMax="430.110" count="1.000">
+<char text="a" left="150.510"/>
+<char text="" left="158.710"/>
+</chars>
+</word>
+<word id="100" text="section" count="0" wordType="normal">
+<rect xMin="164.340" yMin="415.110" xMax="215.270" yMax="430.110"/>
+<fontInfo name="PAUGLQ+LMRoman12-Bold-Identity-H" size="15.000"/>
+<chars yMin="415.110" yMax="430.110" count="7.000">
+<char text="s" left="164.340"/>
+<char text="e" left="171.000"/>
+<char text="c" left="178.690"/>
+<char text="t" left="186.190"/>
+<char text="i" left="192.760"/>
+<char text="o" left="197.460"/>
+<char text="n" left="205.900"/>
+<char text="" left="215.270"/>
+</chars>
+</word>
+</words>
+</text>
+<text id="14" count="6" text="How are you? I’m fine thanks.">
+<rect xMin="93.000" yMin="445.530" xMax="232.780" yMax="456.030"/>
+<words>
+<word id="101" text="How" count="0" wordType="normal">
+<rect xMin="93.000" yMin="445.530" xMax="113.410" yMax="456.030"/>
+<fontInfo name="TQAEXQ+LMRoman10-Regular-Identity-H" size="10.500"/>
+<chars yMin="445.530" yMax="456.030" count="3.000">
+<char text="H" left="93.000"/>
+<char text="o" left="100.870"/>
+<char text="w" left="105.830"/>
+<char text="" left="113.410"/>
+</chars>
+</word>
+<word id="102" text="are" count="0" wordType="normal">
+<rect xMin="116.890" yMin="445.530" xMax="130.930" yMax="456.030"/>
+<fontInfo name="TQAEXQ+LMRoman10-Regular-Identity-H" size="10.500"/>
+<chars yMin="445.530" yMax="456.030" count="3.000">
+<char text="a" left="116.890"/>
+<char text="r" left="122.140"/>
+<char text="e" left="126.270"/>
+<char text="" left="130.930"/>
+</chars>
+</word>
+<word id="103" text="you?" count="0" wordType="normal">
+<rect xMin="134.430" yMin="445.530" xMax="155.730" yMax="456.030"/>
+<fontInfo name="TQAEXQ+LMRoman10-Regular-Identity-H" size="10.500"/>
+<chars yMin="445.530" yMax="456.030" count="4.000">
+<char text="y" left="134.430"/>
+<char text="o" left="139.690"/>
+<char text="u" left="144.940"/>
+<char text="?" left="150.780"/>
+<char text="" left="155.730"/>
+</chars>
+</word>
+<word id="104" text="I’m" count="0" wordType="normal">
+<rect xMin="160.380" yMin="445.530" xMax="175.840" yMax="456.030"/>
+<fontInfo name="TQAEXQ+LMRoman10-Regular-Identity-H" size="10.500"/>
+<chars yMin="445.530" yMax="456.030" count="3.000">
+<char text="I" left="160.380"/>
+<char text="’" left="164.170"/>
+<char text="m" left="167.090"/>
+<char text="" left="175.840"/>
+</chars>
+</word>
+<word id="105" text="fine" count="0" wordType="normal">
+<rect xMin="179.340" yMin="445.530" xMax="195.670" yMax="456.030"/>
+<fontInfo name="TQAEXQ+LMRoman10-Regular-Identity-H" size="10.500"/>
+<chars yMin="445.530" yMax="456.030" count="4.000">
+<char text="f" left="179.340"/>
+<char text="i" left="182.260"/>
+<char text="n" left="185.170"/>
+<char text="e" left="191.010"/>
+<char text="" left="195.670"/>
+</chars>
+</word>
+<word id="106" text="thanks." count="0" wordType="normal">
+<rect xMin="199.170" yMin="445.530" xMax="232.780" yMax="456.030"/>
+<fontInfo name="TQAEXQ+LMRoman10-Regular-Identity-H" size="10.500"/>
+<chars yMin="445.530" yMax="456.030" count="7.000">
+<char text="t" left="199.170"/>
+<char text="h" left="203.260"/>
+<char text="a" left="209.090"/>
+<char text="n" left="214.340"/>
+<char text="k" left="220.180"/>
+<char text="s" left="225.730"/>
+<char text="." left="229.860"/>
+<char text="" left="232.780"/>
+</chars>
+</word>
+</words>
+</text>
+<text id="15" count="12" text="x2 + y2 = (x + y)2">
+<rect xMin="93.000" yMin="461.720" xMax="176.790" yMax="472.410"/>
+<words>
+<word id="107" text="x" count="0" wordType="normal">
+<rect xMin="93.000" yMin="463.080" xMax="98.990" yMax="472.410"/>
+<fontInfo name="UXAVTJ+CMMI10" size="10.500"/>
+<chars yMin="463.080" yMax="472.410" count="1.000">
+<char text="x" left="93.000"/>
+<char text="" left="98.990"/>
+</chars>
+</word>
+<word id="108" text="2" count="0" wordType="normal">
+<rect xMin="99.000" yMin="461.720" xMax="102.960" yMax="467.910"/>
+<fontInfo name="TVNOCD+CMR7" size="6.974"/>
+<chars yMin="461.720" yMax="467.910" count="1.000">
+<char text="2" left="99.000"/>
+<char text="" left="102.960"/>
+</chars>
+</word>
+<word id="109" text="+" count="0" wordType="normal">
+<rect xMin="105.800" yMin="463.080" xMax="113.960" yMax="472.410"/>
+<fontInfo name="DINQWP+CMR10" size="10.500"/>
+<chars yMin="463.080" yMax="472.410" count="1.000">
+<char text="+" left="105.800"/>
+<char text="" left="113.960"/>
+</chars>
+</word>
+<word id="110" text="y" count="0" wordType="normal">
+<rect xMin="116.300" yMin="463.080" xMax="121.440" yMax="472.410"/>
+<fontInfo name="UXAVTJ+CMMI10" size="10.500"/>
+<chars yMin="463.080" yMax="472.410" count="1.000">
+<char text="y" left="116.300"/>
+<char text="" left="121.440"/>
+</chars>
+</word>
+<word id="111" text="2" count="0" wordType="normal">
+<rect xMin="121.820" yMin="461.720" xMax="125.790" yMax="467.910"/>
+<fontInfo name="TVNOCD+CMR7" size="6.974"/>
+<chars yMin="461.720" yMax="467.910" count="1.000">
+<char text="2" left="121.820"/>
+<char text="" left="125.790"/>
+</chars>
+</word>
+<word id="112" text="=" count="0" wordType="normal">
+<rect xMin="129.210" yMin="463.080" xMax="137.370" yMax="472.410"/>
+<fontInfo name="DINQWP+CMR10" size="10.500"/>
+<chars yMin="463.080" yMax="472.410" count="1.000">
+<char text="=" left="129.210"/>
+<char text="" left="137.370"/>
+</chars>
+</word>
+<word id="113" text="(" count="0" wordType="normal">
+<rect xMin="140.280" yMin="463.080" xMax="144.350" yMax="472.410"/>
+<fontInfo name="DINQWP+CMR10" size="10.500"/>
+<chars yMin="463.080" yMax="472.410" count="1.000">
+<char text="(" left="140.280"/>
+<char text="" left="144.350"/>
+</chars>
+</word>
+<word id="114" text="x" count="0" wordType="normal">
+<rect xMin="144.380" yMin="463.080" xMax="150.370" yMax="472.410"/>
+<fontInfo name="UXAVTJ+CMMI10" size="10.500"/>
+<chars yMin="463.080" yMax="472.410" count="1.000">
+<char text="x" left="144.380"/>
+<char text="" left="150.370"/>
+</chars>
+</word>
+<word id="115" text="+" count="0" wordType="normal">
+<rect xMin="152.710" yMin="463.080" xMax="160.870" yMax="472.410"/>
+<fontInfo name="DINQWP+CMR10" size="10.500"/>
+<chars yMin="463.080" yMax="472.410" count="1.000">
+<char text="+" left="152.710"/>
+<char text="" left="160.870"/>
+</chars>
+</word>
+<word id="116" text="y" count="0" wordType="normal">
+<rect xMin="163.210" yMin="463.080" xMax="168.360" yMax="472.410"/>
+<fontInfo name="UXAVTJ+CMMI10" size="10.500"/>
+<chars yMin="463.080" yMax="472.410" count="1.000">
+<char text="y" left="163.210"/>
+<char text="" left="168.360"/>
+</chars>
+</word>
+<word id="117" text=")" count="0" wordType="normal">
+<rect xMin="168.740" yMin="463.080" xMax="172.810" yMax="472.410"/>
+<fontInfo name="DINQWP+CMR10" size="10.500"/>
+<chars yMin="463.080" yMax="472.410" count="1.000">
+<char text=")" left="168.740"/>
+<char text="" left="172.810"/>
+</chars>
+</word>
+<word id="118" text="2" count="0" wordType="normal">
+<rect xMin="172.820" yMin="461.720" xMax="176.790" yMax="467.910"/>
+<fontInfo name="TVNOCD+CMR7" size="6.974"/>
+<chars yMin="461.720" yMax="467.910" count="1.000">
+<char text="2" left="172.820"/>
+<char text="" left="176.790"/>
+</chars>
+</word>
+</words>
+</text>
+<text id="16" count="3" text="表1: 时">
+<rect xMin="278.970" yMin="494.470" xMax="316.300" yMax="505.520"/>
+<words>
+<word id="119" text="表" count="0" wordType="normal">
+<rect xMin="278.970" yMin="494.470" xMax="289.470" yMax="504.970"/>
+<fontInfo name="PUTAAO+SimSun" size="10.500"/>
+<chars yMin="494.470" yMax="504.970" count="1.000">
+<char text="表" left="278.970"/>
+<char text="" left="289.470"/>
+</chars>
+</word>
+<word id="120" text="1:" count="0" wordType="normal">
+<rect xMin="292.970" yMin="495.020" xMax="301.140" yMax="505.520"/>
+<fontInfo name="TQAEXQ+LMRoman10-Regular-Identity-H" size="10.500"/>
+<chars yMin="495.020" yMax="505.520" count="2.000">
+<char text="1" left="292.970"/>
+<char text=":" left="298.220"/>
+<char text="" left="301.140"/>
+</chars>
+</word>
+<word id="121" text="时" count="0" wordType="normal">
+<rect xMin="305.800" yMin="494.470" xMax="316.300" yMax="504.970"/>
+<fontInfo name="PUTAAO+SimSun" size="10.500"/>
+<chars yMin="494.470" yMax="504.970" count="1.000">
+<char text="时" left="305.800"/>
+<char text="" left="316.300"/>
+</chars>
+</word>
+</words>
+</text>
+<text id="17" count="3" text="1 2 3">
+<rect xMin="277.800" yMin="508.470" xMax="317.460" yMax="518.970"/>
+<words>
+<word id="122" text="1" count="0" wordType="normal">
+<rect xMin="277.800" yMin="508.470" xMax="283.050" yMax="518.970"/>
+<fontInfo name="TQAEXQ+LMRoman10-Regular-Identity-H" size="10.500"/>
+<chars yMin="508.470" yMax="518.970" count="1.000">
+<char text="1" left="277.800"/>
+<char text="" left="283.050"/>
+</chars>
+</word>
+<word id="123" text="2" count="0" wordType="normal">
+<rect xMin="295.000" yMin="508.470" xMax="300.250" yMax="518.970"/>
+<fontInfo name="TQAEXQ+LMRoman10-Regular-Identity-H" size="10.500"/>
+<chars yMin="508.470" yMax="518.970" count="1.000">
+<char text="2" left="295.000"/>
+<char text="" left="300.250"/>
+</chars>
+</word>
+<word id="124" text="3" count="0" wordType="normal">
+<rect xMin="312.210" yMin="508.470" xMax="317.460" yMax="518.970"/>
+<fontInfo name="TQAEXQ+LMRoman10-Regular-Identity-H" size="10.500"/>
+<chars yMin="508.470" yMax="518.970" count="1.000">
+<char text="3" left="312.210"/>
+<char text="" left="317.460"/>
+</chars>
+</word>
+</words>
+</text>
+<text id="18" count="3" text="4 5 6">
+<rect xMin="277.800" yMin="524.850" xMax="317.460" yMax="535.350"/>
+<words>
+<word id="125" text="4" count="0" wordType="normal">
+<rect xMin="277.800" yMin="524.850" xMax="283.050" yMax="535.350"/>
+<fontInfo name="TQAEXQ+LMRoman10-Regular-Identity-H" size="10.500"/>
+<chars yMin="524.850" yMax="535.350" count="1.000">
+<char text="4" left="277.800"/>
+<char text="" left="283.050"/>
+</chars>
+</word>
+<word id="126" text="5" count="0" wordType="normal">
+<rect xMin="295.000" yMin="524.850" xMax="300.250" yMax="535.350"/>
+<fontInfo name="TQAEXQ+LMRoman10-Regular-Identity-H" size="10.500"/>
+<chars yMin="524.850" yMax="535.350" count="1.000">
+<char text="5" left="295.000"/>
+<char text="" left="300.250"/>
+</chars>
+</word>
+<word id="127" text="6" count="0" wordType="normal">
+<rect xMin="312.210" yMin="524.850" xMax="317.460" yMax="535.350"/>
+<fontInfo name="TQAEXQ+LMRoman10-Regular-Identity-H" size="10.500"/>
+<chars yMin="524.850" yMax="535.350" count="1.000">
+<char text="6" left="312.210"/>
+<char text="" left="317.460"/>
+</chars>
+</word>
+</words>
+</text>
+<text id="19" count="3" text="7 8 9">
+<rect xMin="277.800" yMin="541.230" xMax="317.460" yMax="551.730"/>
+<words>
+<word id="128" text="7" count="0" wordType="normal">
+<rect xMin="277.800" yMin="541.230" xMax="283.050" yMax="551.730"/>
+<fontInfo name="TQAEXQ+LMRoman10-Regular-Identity-H" size="10.500"/>
+<chars yMin="541.230" yMax="551.730" count="1.000">
+<char text="7" left="277.800"/>
+<char text="" left="283.050"/>
+</chars>
+</word>
+<word id="129" text="8" count="0" wordType="normal">
+<rect xMin="295.000" yMin="541.230" xMax="300.250" yMax="551.730"/>
+<fontInfo name="TQAEXQ+LMRoman10-Regular-Identity-H" size="10.500"/>
+<chars yMin="541.230" yMax="551.730" count="1.000">
+<char text="8" left="295.000"/>
+<char text="" left="300.250"/>
+</chars>
+</word>
+<word id="130" text="9" count="0" wordType="normal">
+<rect xMin="312.210" yMin="541.230" xMax="317.460" yMax="551.730"/>
+<fontInfo name="TQAEXQ+LMRoman10-Regular-Identity-H" size="10.500"/>
+<chars yMin="541.230" yMax="551.730" count="1.000">
+<char text="9" left="312.210"/>
+<char text="" left="317.460"/>
+</chars>
+</word>
+</words>
+</text>
+<text id="20" count="3" text="(1) 这是第点;">
+<rect xMin="78.500" yMin="579.270" xMax="141.820" yMax="590.320"/>
+<words>
+<word id="131" text="(1)" count="0" wordType="normal">
+<rect xMin="78.500" yMin="579.820" xMax="91.920" yMax="590.320"/>
+<fontInfo name="TQAEXQ+LMRoman10-Regular-Identity-H" size="10.500"/>
+<chars yMin="579.820" yMax="590.320" count="3.000">
+<char text="(" left="78.500"/>
+<char text="1" left="82.590"/>
+<char text=")" left="87.840"/>
+<char text="" left="91.920"/>
+</chars>
+</word>
+<word id="132" text="这是第点" count="0" wordType="normal">
+<rect xMin="96.900" yMin="579.270" xMax="138.900" yMax="589.770"/>
+<fontInfo name="PUTAAO+SimSun" size="10.500"/>
+<chars yMin="579.270" yMax="589.770" count="4.000">
+<char text="这" left="96.900"/>
+<char text="是" left="107.400"/>
+<char text="第" left="117.900"/>
+<char text="点" left="128.400"/>
+<char text="" left="138.900"/>
+</chars>
+</word>
+<word id="133" text=";" count="0" wordType="normal">
+<rect xMin="138.900" yMin="579.820" xMax="141.820" yMax="590.320"/>
+<fontInfo name="TQAEXQ+LMRoman10-Regular-Identity-H" size="10.500"/>
+<chars yMin="579.820" yMax="590.320" count="1.000">
+<char text=";" left="138.900"/>
+<char text="" left="141.820"/>
+</chars>
+</word>
+</words>
+</text>
+<text id="21" count="3" text="(2) 这是第点;">
+<rect xMin="78.500" yMin="603.620" xMax="141.820" yMax="614.670"/>
+<words>
+<word id="134" text="(2)" count="0" wordType="normal">
+<rect xMin="78.500" yMin="604.170" xMax="91.920" yMax="614.670"/>
+<fontInfo name="TQAEXQ+LMRoman10-Regular-Identity-H" size="10.500"/>
+<chars yMin="604.170" yMax="614.670" count="3.000">
+<char text="(" left="78.500"/>
+<char text="2" left="82.590"/>
+<char text=")" left="87.840"/>
+<char text="" left="91.920"/>
+</chars>
+</word>
+<word id="135" text="这是第点" count="0" wordType="normal">
+<rect xMin="96.900" yMin="603.620" xMax="138.900" yMax="614.120"/>
+<fontInfo name="PUTAAO+SimSun" size="10.500"/>
+<chars yMin="603.620" yMax="614.120" count="4.000">
+<char text="这" left="96.900"/>
+<char text="是" left="107.400"/>
+<char text="第" left="117.900"/>
+<char text="点" left="128.400"/>
+<char text="" left="138.900"/>
+</chars>
+</word>
+<word id="136" text=";" count="0" wordType="normal">
+<rect xMin="138.900" yMin="604.170" xMax="141.820" yMax="614.670"/>
+<fontInfo name="TQAEXQ+LMRoman10-Regular-Identity-H" size="10.500"/>
+<chars yMin="604.170" yMax="614.670" count="1.000">
+<char text=";" left="138.900"/>
+<char text="" left="141.820"/>
+</chars>
+</word>
+</words>
+</text>
+<text id="22" count="3" text="(3) 这是第三点.">
+<rect xMin="78.500" yMin="627.970" xMax="152.320" yMax="639.020"/>
+<words>
+<word id="137" text="(3)" count="0" wordType="normal">
+<rect xMin="78.500" yMin="628.520" xMax="91.920" yMax="639.020"/>
+<fontInfo name="TQAEXQ+LMRoman10-Regular-Identity-H" size="10.500"/>
+<chars yMin="628.520" yMax="639.020" count="3.000">
+<char text="(" left="78.500"/>
+<char text="3" left="82.590"/>
+<char text=")" left="87.840"/>
+<char text="" left="91.920"/>
+</chars>
+</word>
+<word id="138" text="这是第三点" count="0" wordType="normal">
+<rect xMin="96.900" yMin="627.970" xMax="149.400" yMax="638.470"/>
+<fontInfo name="PUTAAO+SimSun" size="10.500"/>
+<chars yMin="627.970" yMax="638.470" count="5.000">
+<char text="这" left="96.900"/>
+<char text="是" left="107.400"/>
+<char text="第" left="117.900"/>
+<char text="三" left="128.400"/>
+<char text="点" left="138.900"/>
+<char text="" left="149.400"/>
+</chars>
+</word>
+<word id="139" text="." count="0" wordType="normal">
+<rect xMin="149.400" yMin="628.520" xMax="152.320" yMax="639.020"/>
+<fontInfo name="TQAEXQ+LMRoman10-Regular-Identity-H" size="10.500"/>
+<chars yMin="628.520" yMax="639.020" count="1.000">
+<char text="." left="149.400"/>
+<char text="" left="152.320"/>
+</chars>
+</word>
+</words>
+</text>
+<text id="23" count="3" text="Hello world! 你好，世界！">
+<rect xMin="71.990" yMin="652.320" xMax="195.110" yMax="663.370"/>
+<words>
+<word id="140" text="Hello" count="0" wordType="normal">
+<rect xMin="71.990" yMin="652.870" xMax="95.620" yMax="663.370"/>
+<fontInfo name="TQAEXQ+LMRoman10-Regular-Identity-H" size="10.500"/>
+<chars yMin="652.870" yMax="663.370" count="5.000">
+<char text="H" left="71.990"/>
+<char text="e" left="79.870"/>
+<char text="l" left="84.530"/>
+<char text="l" left="87.450"/>
+<char text="o" left="90.370"/>
+<char text="" left="95.620"/>
+</chars>
+</word>
+<word id="141" text="world!" count="0" wordType="normal">
+<rect xMin="99.120" yMin="652.870" xMax="127.460" yMax="663.370"/>
+<fontInfo name="TQAEXQ+LMRoman10-Regular-Identity-H" size="10.500"/>
+<chars yMin="652.870" yMax="663.370" count="6.000">
+<char text="w" left="99.120"/>
+<char text="o" left="106.410"/>
+<char text="r" left="111.660"/>
+<char text="l" left="115.780"/>
+<char text="d" left="118.700"/>
+<char text="!" left="124.540"/>
+<char text="" left="127.460"/>
+</chars>
+</word>
+<word id="142" text="你好，世界！" count="0" wordType="normal">
+<rect xMin="132.110" yMin="652.320" xMax="195.110" yMax="662.820"/>
+<fontInfo name="PUTAAO+SimSun" size="10.500"/>
+<chars yMin="652.320" yMax="662.820" count="6.000">
+<char text="你" left="132.110"/>
+<char text="好" left="142.610"/>
+<char text="，" left="153.110"/>
+<char text="世" left="163.610"/>
+<char text="界" left="174.110"/>
+<char text="！" left="184.610"/>
+<char text="" left="195.110"/>
+</chars>
+</word>
+</words>
+</text>
+<text id="24" count="1" text="1">
+<rect xMin="295.010" yMin="791.310" xMax="300.260" yMax="801.810"/>
+<words>
+<word id="143" text="1" count="0" wordType="normal">
+<rect xMin="295.010" yMin="791.310" xMax="300.260" yMax="801.810"/>
+<fontInfo name="TQAEXQ+LMRoman10-Regular-Identity-H" size="10.500"/>
+<chars yMin="791.310" yMax="801.810" count="1.000">
+<char text="1" left="295.010"/>
+<char text="" left="300.260"/>
+</chars>
+</word>
+</words>
+</text>
+</Page>
+</Pages>
